@@ -25,4 +25,5 @@ Redmin-K20-Pro Nethunter-Project
 
 感谢名单
 ====
-Thanks [UtsavBalar1231](https://github.com/UtsavBalar1231）
+Thanks 
+[UtsavBalar1231](https://github.com/UtsavBalar1231）
