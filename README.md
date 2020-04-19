@@ -5,8 +5,8 @@ Redmin-K20-Pro Nethunter-Project
 
 + 支持otg外接网卡 MTKMT7601U rt28xx/3070l ar9170等
 + HID模拟键盘鼠标攻击，完美支持DuckyHID
-SYSVIPC支持 (现在你可以开启PostgreSQL数据库)
-DriveDroid支持
+- SYSVIPC支持 (现在你可以开启PostgreSQL数据库)
+- DriveDroid支持
 USB RNDIS 模拟网卡
 USB/UART 蓝牙设备支持
 RTL-SDR, AirSpy, Hackrf 支持
