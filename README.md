@@ -1,9 +1,9 @@
 Redmin-K20-Pro Nethunter-Project
 =====
-# 警告：该内核仅在用于黑客技术的学习和交流，禁止非法使用，期间发生和导致的任何责任问题都与本人无关！
-# 该内核基于UtsavBalar1231内核源码和android-linux-stable并进行修改，适用于MIUI_Q,基本上实现了Nethunter官网支持手机的全部功能并且已解决所有已知问题
+警告：该内核仅在用于黑客技术的学习和交流，禁止非法使用，期间发生和导致的任何责任问题都与本人无关！
+该内核基于UtsavBalar1231内核源码和android-linux-stable并进行修改，适用于MIUI_Q,基本上实现了Nethunter官网支持手机的全部功能并且已解决所有已知问题
 
-支持otg外接网卡 MTKMT7601U rt28xx/3070l ar9170等
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<支持otg外接网卡 MTKMT7601U rt28xx/3070l ar9170等
 HID模拟键盘鼠标攻击，完美支持DuckyHID
 SYSVIPC支持 (现在你可以开启PostgreSQL数据库)
 DriveDroid支持
