@@ -11,7 +11,8 @@ Redmin-K20-Pro Nethunter-Project
 + USB/UART 蓝牙设备支持
 + RTL-SDR, AirSpy, Hackrf 支持
 + USB RTL8150/2/3 based 有线网卡支持
-+USB serial (目前支持CH341和pl2303接口)
++ USB serial (目前支持CH341和pl2303接口)
++ 支持高通内置网卡开启监听, 现在你可以使用手机自身的"wlan0"网卡来开启监听模式了(暂不支持注入)
 
 内核自身功能
 ====
