@@ -25,7 +25,7 @@ Redmin-K20-Pro Nethunter-Project
 
 感谢名单
 ====
- _Thanks [UtsavBalar1231](https://github.com/UtsavBalar1231)
+- _Thanks [UtsavBalar1231](https://github.com/UtsavBalar1231)
 _Thanks [shandongtlb](https://github.com/shandongtlb)
 _ [android-linux-stable/](https://github.com/android-linux-stable/msm-4.14/tree/kernel.lnx.4.14.r4-rel)
 _ [simonpunk](https://forum.xda-developers.com/oneplus-5/development/burgerhunter-t3638810)
