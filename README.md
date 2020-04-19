@@ -27,5 +27,6 @@ Redmin-K20-Pro Nethunter-Project
 ====
 <br> Thanks [UtsavBalar1231](https://github.com/UtsavBalar1231)
 <br> Thanks [shandongtlb](https://github.com/shandongtlb)
-<br> [android-linux-stable/](https://github.com/android-linux-stable/msm-4.14/tree/kernel.lnx.4.14.r4-rel)
-<br> [simonpunk](https://forum.xda-developers.com/oneplus-5/development/burgerhunter-t3638810)
+<br> Thanks [android-linux-stable/](https://github.com/android-linux-stable/msm-4.14/tree/kernel.lnx.4.14.r4-rel)
+<br> Thanks [simonpunk](https://forum.xda-developers.com/oneplus-5/development/burgerhunter-t3638810)
+<br> Thanks [kimocoder](https://github.com/kimocoder)
