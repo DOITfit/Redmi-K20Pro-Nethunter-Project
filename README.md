@@ -25,5 +25,5 @@ Redmin-K20-Pro Nethunter-Project
 
 感谢名单
 ====
-Thanks [Mozilla](LICENSE
+Thanks [Mozilla](LICENSE)
 
