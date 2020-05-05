@@ -18,7 +18,7 @@ Redmin-K20-Pro Nethunter-Project
 
 内核自身功能
 ====
-+ Update to 4.14.176
++ Update to 4.14.178
 + Merge tag 'LA.UM.8.1.r1-14700-sm8150.0'
 + 添加 830mhz gpu freq
 + BBR2 and set default
