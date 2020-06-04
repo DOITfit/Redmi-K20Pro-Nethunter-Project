@@ -18,12 +18,17 @@ Redmin-K20-Pro Nethunter-Project
 
 内核自身功能
 ====
-+ Update to 4.14.180
++ Update to 4.14.183
 + Merge tag 'LA.UM.8.1.r1-14700-sm8150.0'
 + 添加 830mhz gpu freq
 + BBR2 and set default
 + 升级 qcacld3 wlan driver 到最新
 + 升级 wireguard 到最新
++ 启用PELT负载均衡
++ 添加Dynamic SchedTune Boost
++ 添加CPU_INPUT_BOOST
++ 添加RTL88XX网卡驱动
++ 合并googlesource上游common
 + Zram: 默认lz4压缩算法
 
 感谢名单
