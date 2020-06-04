@@ -13,7 +13,7 @@ Redmin-K20-Pro Nethunter-Project
 + USB RTL8150/2/3 based 有线网卡支持
 + USB serial (目前支持CH341和pl2303接口)
 + 支持高通内置网卡开启监听, 现在你可以使用手机自身的"wlan0"网卡来开启监听模式了(暂不支持注入)
-
++ 添加RTL88XX网卡驱动,使用方法请看:https://github.com/aircrack-ng/rtl8812au
 如果你想开启手机内置网卡wlan0的监听功能, [请看这里](https://github.com/kimocoder/qualcomm_android_monitor_mode)
 
 内核自身功能
@@ -27,7 +27,6 @@ Redmin-K20-Pro Nethunter-Project
 + 启用PELT负载均衡
 + 添加Dynamic SchedTune Boost
 + 添加CPU_INPUT_BOOST
-+ 添加RTL88XX网卡驱动
 + 合并googlesource上游common
 + Zram: 默认lz4压缩算法
 
@@ -38,3 +37,5 @@ Redmin-K20-Pro Nethunter-Project
 <br> Thanks [android-linux-stable/](https://github.com/android-linux-stable/msm-4.14/tree/kernel.lnx.4.14.r4-rel)
 <br> Thanks [simonpunk](https://forum.xda-developers.com/oneplus-5/development/burgerhunter-t3638810)
 <br> Thanks [kimocoder](https://github.com/kimocoder)
+<br> Thanks [googlesource](https://android.googlesource.com/kernel/common)
+<br> Thanks [CAF](https://source.codeaurora.org/quic/la/kernel/msm-4.14/)
