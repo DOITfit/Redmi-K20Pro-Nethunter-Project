@@ -19,8 +19,8 @@ Redmin-K20-Pro Nethunter-Project
 ===
 + 如果你想开启手机内置网卡wlan0的监听功能, [请看这里](https://github.com/kimocoder/qualcomm_android_monitor_mode)
 + 如果你想开启HID，你需要到终端模拟器以root身份键入以下命令 setprop sys.usb.config win,hid
-+由于新增rtl8812au网卡的特殊性无法直接用airmon-ng直接开启监听模式，可以通过下列命令运行:
-小米手机的话要操作的应该使wlan2而不是wlan1
++ 由于新增rtl8812au网卡的特殊性无法直接用airmon-ng直接开启监听模式，可以通过下列命令运行:
++ 小米手机的话要操作的应该使wlan2而不是wlan1
 ip link wlan2 down
 iw dev wlan2 set type monitor
 ip link wlan2 up
