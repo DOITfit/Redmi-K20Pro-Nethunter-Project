@@ -15,7 +15,7 @@ Redmin-K20-Pro Nethunter-Project
 + 支持高通内置网卡开启监听, 现在你可以使用手机自身的"wlan0"网卡来开启监听模式了(暂不支持注入)
 + 添加RTL88XX网卡驱动,使用方法请看:https://github.com/aircrack-ng/rtl8812au
 如果你想开启手机内置网卡wlan0的监听功能, [请看这里](https://github.com/kimocoder/qualcomm_android_monitor_mode)
-
++ 如果你想开启HID，你需要到终端模拟器以root身份键入以下命令 setprop sys.usb.config win,hid
 内核自身功能
 ====
 + Update to 4.14.183
